@@ -18,7 +18,7 @@ export class NovaTransferenciaComponent implements OnInit {
   }
 
   transferir() {
-    console.log('Sua transêrencia foi enviada com sucesso!');
+    console.log('Sua transferência foi enviada com sucesso!');
     // console.log(`Valor: ${this.valor}`);
     // console.log(`Destino: ${this.destino}`);
     // document.querySelector('.resultado').innerHTML = `
